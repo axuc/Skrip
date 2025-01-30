@@ -45,5 +45,7 @@ osfisch:NewButton("Fischy (d)", "Added by Cheet0Puff", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Cheet0Puff/Fisch-Script-WORKING/refs/heads/main/Fischyscript.lua",true))()
 end)
 osfisch:NewButton("Fischy (d)", "Added by Cheet0Puff", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Cheet0Puff/Open-Discord-Script-Rblx/refs/heads/main/Script.lua",true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxAPI/RobloxAPI/master/Modules/OpenLink.lua"))()
+    local OpenLink = _G.OpenLink
+    OpenLink("https://github.com/Cheet0Puff/Fisch-Script-WORKING/blob/main/README.md")
 end)
