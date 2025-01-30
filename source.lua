@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Cheet0Puff/UI-Library/tree/main/source.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Cheet0Puff/UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("Skirp (xeno)", "DarkTheme")
 
 local Tab = Window:NewTab("Credits")
