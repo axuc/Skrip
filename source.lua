@@ -1,5 +1,5 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("skirp (xeno)", "Midnight")
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Cheet0Puff/UI-Library/tree/main/source.lua"))()
+local Window = Library.CreateLib("Skirp (xeno)", "DarkTheme")
 
 local Tab = Window:NewTab("Credits")
 local Section = Tab:NewSection("<3")
