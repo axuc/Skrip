@@ -1,5 +1,5 @@
 # skrip
-just a silly xeno script hub ^-^
+just a silly Xeno script hub ^-^
 
 
 
@@ -8,4 +8,4 @@ just a silly xeno script hub ^-^
 > We are not **responsible** for any bans.
 
 > [!IMPORTANT]
-> Please report to **@nytmi** on discord if one of the scripts break/get detected
+> Please report to **@nytmi or @_novapulse** on discord if one of the scripts break/get detected
