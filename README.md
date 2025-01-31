@@ -1,4 +1,4 @@
-# skrip
+# Skrip
 just a silly Xeno script hub ^-^
 
 
