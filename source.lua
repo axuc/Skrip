@@ -47,3 +47,12 @@ end)
 osfisch:NewButton("Fischy Tutorial (d)", "Added by Cheet0Puff", function()
     os.execute("start https://github.com/Cheet0Puff/Fisch-Script-WORKING/blob/main/README.md")
 end)
+
+
+local Arsenal = Window:NewTab("Arsenal")
+local Arsenals = Arsenal:NewSection("All of these scripts are tested by owners & beta testers")
+local ArsenalKl = Arsenal:NewSection("Keyless")
+ArsenalKl:NewButton("Ronix Hub", "Added by nytmi", function()
+    loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/93f86be991de0ff7d79e6328e4ceea40.lua"))()
+end)
+
