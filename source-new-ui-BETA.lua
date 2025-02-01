@@ -56,3 +56,12 @@ end)
 Fisch:Button("nebora.org", "added by nytmi", function()
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/499fa8eaaae391c6c3c77f2640811357.lua"))()
 end)
+
+
+
+
+local Rivals = win:Tab("Rivals", "http://www.roblox.com/asset/?id=0")
+Rivals:Label("Every script is tested by owners or beta testers")
+Rivals:Button("nebora.org", "added by nytmi", function()
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/499fa8eaaae391c6c3c77f2640811357.lua"))()
+end)
