@@ -53,3 +53,6 @@ Fisch:Button("Speed Hub", "added by nytmi", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
 end)
 
+Fisch:Button("nebora.org", "added by nytmi", function()
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/499fa8eaaae391c6c3c77f2640811357.lua"))()
+end)
