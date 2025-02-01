@@ -1,6 +1,6 @@
 local Flux = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/fluxlib.txt")()
 
-local win = Flux:Window("Skrip", "xeno script hub", Color3.fromRGB(255, 110, 48), Enum.KeyCode.LeftControl)
+local win = Flux:Window("Skrip", "press Left Control to minimize gui", Color3.fromRGB(255, 110, 48), Enum.KeyCode.LeftControl)
 
 
 
