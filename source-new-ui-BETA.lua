@@ -6,13 +6,19 @@ local win = Flux:Window("Skrip", "press Left Control to minimize", Color3.fromRG
 
 
 local tab = win:Tab("Credits!!", "http://www.roblox.com/asset/?id=0")
-tab:Label("@nytmi n @pzuo - owners")
+tab:Label("@nytmi n @pzuo - founders")
 tab:Line()
+tab:Label("Co-owner")
+tab:Label("_wavetonori")
+tab:Line()
+tab:Label("owner")
 
+tab:Label("combat initiation script dev")
+tab:Label("@dostanhalat")
 
 
 local Blox_Fruits = win:Tab("Blox Fruits", "http://www.roblox.com/asset/?id=0")
-Blox_Fruits:Label("Every script here is tested by owners or beta testers")
+Blox_Fruits:Label("Every script here is tested by founders or beta testers")
 Blox_Fruits:Label("Make a issue on github IF a script doesnt work")
 Blox_Fruits:Line()
 Blox_Fruits:Label("Keyless")
@@ -47,7 +53,7 @@ end)
 
 local Fisch = win:Tab("Fisch", "http://www.roblox.com/asset/?id=0")
 
-Fisch:Label("Every script is tested by owners or beta testers")
+Fisch:Label("Every script is tested by founders or beta testers")
 
 Fisch:Button("Speed Hub", "added by nytmi", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
@@ -68,7 +74,7 @@ end)
 
 
 local SquidGameRbx = win:Tab("Shrimp Game", "http://www.roblox.com/asset/?id=0")
-SquidGameRbx:Label("Every script is tested by owners or beta testers")
+SquidGameRbx:Label("Every script is tested by founders or beta testers")
 SquidGameRbx:Button("nebora.org", "added by nytmi", function()
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/499fa8eaaae391c6c3c77f2640811357.lua"))()
 end)
@@ -76,7 +82,7 @@ end)
 
 
 local combatinit = win:Tab("combat initiation", "http://www.roblox.com/asset/?id=0")
-combatinit:Label("Every script is tested by owners or beta testers")
+combatinit:Label("Every script is tested by founders or beta testers")
 combatinit:Button("press the thing on the bottom left mid wave", "added by nytmi made by @dostanhalat
 ", function()
 local player = game.Players.LocalPlayer
