@@ -75,9 +75,10 @@ end)
 
 
 
-local combatinit = win:Tab("combatt initiation", "http://www.roblox.com/asset/?id=0")
+local combatinit = win:Tab("combat initiation", "http://www.roblox.com/asset/?id=0")
 combatinit:Label("Every script is tested by owners or beta testers")
-combatinit:Button("press the thing on the bottom left mid wave", "added by nytmi", function()
+combatinit:Button("press the thing on the bottom left mid wave", "added by nytmi made by @dostanhalat
+", function()
 local player = game.Players.LocalPlayer
 local Randomize = false
 local enemyPriority = {"Mark", "Beacon"} -- reversed
